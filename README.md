@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshigoyal2801" alt="priyanshigoyal2801" /></a> </p>
 
-- 🔭 I’m currently working on [Linky](https://github.com/priyanshigoyal2801/BreastCancer-Predictor)
+- 🔭 I’m currently working on [BreastCancer-Predictor](https://github.com/priyanshigoyal2801/BreastCancer-Predictor)
 
 - 🌱 I’m currently learning **DSA and Backend technologies.**
 
